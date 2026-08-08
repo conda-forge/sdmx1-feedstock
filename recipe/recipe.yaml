@@ -1,5 +1,5 @@
 context:
-  version: "2.26.0"
+  version: "2.27.0"
 
 package:
   name: sdmx1
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://github.com/khaeru/sdmx/archive/refs/tags/v${{ version }}.tar.gz
-    sha256: cb8093ee3acea2f64dd942996a8d2ae7514f889a30d4d611314e23154d2db097
+    sha256: 014fd6d8bf512db7288fca6d4e511714597149b6665e2380eb7519481c5fc944
 
 build:
   number: 0
